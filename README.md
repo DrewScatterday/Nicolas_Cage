@@ -1,6 +1,10 @@
 # My first Deep Learning project - A Convolutional Neural Network that classifies images of Nicolas Cage 
 Check out the medium article I wrote on this project here: https://towardsdatascience.com/my-first-contribution-to-data-science-a-convolutional-neural-network-that-recognizes-images-of-fdf9b01c6925
 
+## Example output:
+<img src="Jupyter_Images/nic_output.png" width=400 height=400>
+
+
 ## Dependencies:
 * python=3.6.4
 * numpy=1.16.4
@@ -14,4 +18,5 @@ Check out the medium article I wrote on this project here: https://towardsdatasc
 * Dataset - contains the images used for training the classifier. It contains 2 classes. Class0 being the random "not Nicolas Cage" images and Class1 being the images of Nicolas Cage
 * Predict - contains some funny Nicolas Cage memes used for testing out our classifier after it's been trained 
 
-
+## Usage 
+To start the notebook run ```jupyter notebook``` in terminal 
