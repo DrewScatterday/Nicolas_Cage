@@ -1,5 +1,5 @@
 # My first Deep Learning project - A Convolutional Neural Network that classifies images of Nicolas Cage 
-Check out the medium article I wrote on this project here: https://towardsdatascience.com/my-first-contribution-to-data-science-a-convolutional-neural-network-that-recognizes-images-of-fdf9b01c6925
+Check out the medium article I wrote on this project [here](https://towardsdatascience.com/my-first-contribution-to-data-science-a-convolutional-neural-network-that-recognizes-images-of-fdf9b01c6925?source=friends_link&sk=ab74dbc1a8f192509544920623197e9c)
 
 ## Purpose:
 In this project I wanted to learn the basics of neural networks, deep learning, and convolution. I also wanted to apply a goofy twist to the project with Nicolas Cage images.  
